@@ -26,7 +26,7 @@ HTTPS: https://github.com/mwaurajr/React-Phase-2-project.git
 MIT LICENSE
 
 ### Author
-Maestero Frankiline Mwaurajr
+Frankiline Mwaurajr
 
 # USAGE
 
