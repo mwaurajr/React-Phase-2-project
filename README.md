@@ -17,9 +17,9 @@ Any contributions are very much welcomed. The project is at it's initial stages 
 ## Set up directions
 You can use either the SSH or HTTPS to clone for contributions to your local personal computer. Below are the links
 
-SSH: 
+SSH: git@github.com:mwaurajr/React-Phase-2-project.git
 
-HTTPS: 
+HTTPS: https://github.com/mwaurajr/React-Phase-2-project.git
 
 
 ### License
